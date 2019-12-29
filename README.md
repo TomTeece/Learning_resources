@@ -25,3 +25,6 @@ Object-oriented Programming in 7 minutes | Mosh - https://www.youtube.com/watch?
 
 ## Python
 Learn Python - Full Course for Beginners [Tutorial] - https://www.youtube.com/watch?v=rfscVS0vtbw
+
+## Web Dev 
+Web Development In 2020 - A Practical Guide - https://www.youtube.com/watch?v=0pThnRneDjw&list=FLOyDzwPdfEEICpZjSX7GKwg&index=2&t=44s
