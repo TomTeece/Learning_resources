@@ -28,3 +28,6 @@ Learn Python - Full Course for Beginners [Tutorial] - https://www.youtube.com/wa
 
 ## Web Dev 
 Web Development In 2020 - A Practical Guide - https://www.youtube.com/watch?v=0pThnRneDjw&list=FLOyDzwPdfEEICpZjSX7GKwg&index=2&t=44s
+
+## Google techdev
+https://techdevguide.withgoogle.com/
